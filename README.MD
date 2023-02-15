@@ -2,4 +2,4 @@
 
 A simple Lambda function that can be deployed via a GitHub Actions Workflow. 
 
-## Add new version
+## Add new version 2
